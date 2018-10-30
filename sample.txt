@@ -1,4 +1,5 @@
 A Prudent Thief
+
 From: Brobdingnagian Fairy Tales
 words by Cindy Vanous, music Andrew McKee
 
@@ -43,7 +44,6 @@ So other thieves may scorn and mock his name and tale but still they flock
 For a drink and a look at the Empresses Lock... the finest tavern in Greel.
 
 KEY D
-
 verse/chorus:
 D A7 G-A7-D
 D A7 G-A7-D
@@ -51,6 +51,5 @@ D A7 G A7
 D-A7 D-A7 G-A7-D
 
 Background: Andrew found the lyrics for this filk by Cindy Vanous on the web. 
-Cindy composes songs for some popular video games. 
-Fortunately, he saved the song when he found it because you won't find it 
-anywhere else on the net today
+Cindy composes songs for some popular video games. Fortunately, he saved the 
+song when he found it because you won't find it anywhere else on the net today
